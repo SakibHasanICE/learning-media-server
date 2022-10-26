@@ -1,38 +1,38 @@
 [
-    {
-      "_id": "1",
-      "picture": "./Images/python.png",
-      "views": 479,
-      "name": "Python"
-    },
-    {
-      "_id": "2",
-      "picture": "./Images/cyber.jpg",
-      "views": 462,
-      "name": "Cyber Security"
-    },
-    {
-      "_id": "3",
-      "picture": "./Images/app.png",
-      "views": 485,
-      "name": "App Development"
-    },
-    {
-      "_id": "4",
-      "picture": "./Images/artificial.jpg",
-      "views": 491,
-      "name": "Artificial intelligence"
-    },
-    {
-      "_id": "5",
-      "picture": "./Images/machine.jpg",
-      "views": 799,
-      "name": "Machine Learning"
-    },
-    {
-      "_id": "6",
-      "picture": "./Images/web.png",
-      "views": 700,
-      "name": "Web Development"
-    }
-  ]
+  {
+    "id": "1",
+    "img": "https://media.istockphoto.com/photos/artificial-intelligence-concept-picture-id1364859722?s=2048x2048",
+    "views": 479,
+    "name": "Artificial Intelligence"
+  },
+  {
+    "id": "2",
+    "img": "https://media.istockphoto.com/photos/digital-cloud-security-background-concept-picture-id1331943958?s=2048x2048",
+    "views": 462,
+    "name": "Cyber Security"
+  },
+  {
+    "id": "3",
+    "img": "https://media.istockphoto.com/photos/software-developer-freelancer-working-with-program-code-picture-id1173805365?s=2048x2048",
+    "views": 485,
+    "name": "App Development"
+  },
+  {
+    "id": "4",
+    "img": "https://media.istockphoto.com/photos/python-programming-language-concept-woman-developer-with-her-hand-picture-id1189210101?s=2048x2048",
+    "views": 491,
+    "name": "Python"
+  },
+  {
+    "id": "5",
+    "img": "https://media.istockphoto.com/photos/artificial-intelligence-digital-concept-abstract-brains-inside-light-picture-id1366475366?s=2048x2048",
+    "views": 799,
+    "name": "Machine Learning"
+  },
+  {
+    "id": "6",
+    "img": "https://media.istockphoto.com/photos/co-working-team-meeting-conceptbusinessman-using-smart-phone-and-picture-id1371339413?s=2048x2048",
+    "views": 700,
+    "name": "Web Development"
+  }
+]

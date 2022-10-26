@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "img": "https://media.istockphoto.com/photos/artificial-intelligence-concept-picture-id1364859722?s=2048x2048",
+      "views": 479,
+      "information":"Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.[a]The term  had previously been used to describe machines that mimic and display  cognitive skills that are associated with the human mind, such as  and . This definition has since been rejected by major AI researchers who now describe AI in terms of rationality and acting rationally, which does not limit how intelligence can be articulated.",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "2",
+      "img": "https://media.istockphoto.com/photos/digital-cloud-security-background-concept-picture-id1331943958?s=2048x2048",
+      "views": 462,
+      "information":"Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
+      "name": "Cyber Security"
+    },
+    {
+      "id": "3",
+      "img": "https://media.istockphoto.com/photos/software-developer-freelancer-working-with-program-code-picture-id1173805365?s=2048x2048",
+      "views": 485,
+      "information":"Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an experience within a web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms. Mobile app development has been steadily growing, in revenues and jobs created. A 2013 analyst report estimates there are 529,000 direct app economy jobs within the EU then 28 members (including the UK), 60 percent of which are mobile app developers.",
+      "name": "App Development"
+    },
+    {
+      "id": "4",
+      "img": "https://media.istockphoto.com/photos/python-programming-language-concept-woman-developer-with-her-hand-picture-id1189210101?s=2048x2048",
+      "views": 491,
+      "information":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.",
+      "name": "Python"
+    },
+    {
+      "id": "5",
+      "img": "https://media.istockphoto.com/photos/artificial-intelligence-digital-concept-abstract-brains-inside-light-picture-id1366475366?s=2048x2048",
+      "views": 799,
+      "information":"Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "6",
+      "img": "https://media.istockphoto.com/photos/co-working-team-meeting-conceptbusinessman-using-smart-phone-and-picture-id1371339413?s=2048x2048",
+      "views": 700,
+      "information":"Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.Among Web professionals,  usually refers to the main non-design aspects of building Web sites: writing markup and coding.[2] Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.",
+      "name": "Web Development"
+    }
+  ]
+  
