@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "1",
+      "picture": "./Images/python.png",
+      "views": 479,
+      "name": "Python"
+    },
+    {
+      "_id": "2",
+      "picture": "./Images/cyber.jpg",
+      "views": 462,
+      "name": "Cyber Security"
+    },
+    {
+      "_id": "3",
+      "picture": "./Images/app.png",
+      "views": 485,
+      "name": "App Development"
+    },
+    {
+      "_id": "4",
+      "picture": "./Images/artificial.jpg",
+      "views": 491,
+      "name": "Artificial intelligence"
+    },
+    {
+      "_id": "5",
+      "picture": "./Images/machine.jpg",
+      "views": 799,
+      "name": "Machine Learning"
+    },
+    {
+      "_id": "6",
+      "picture": "./Images/web.png",
+      "views": 700,
+      "name": "Web Development"
+    }
+  ]
